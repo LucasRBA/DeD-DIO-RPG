@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\bin\Debug\net6.0\DeD-RPG-DIO.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\bin\Debug\net6.0\DeD-RPG-DIO.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\bin\Debug\net6.0\DeD-RPG-DIO.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\bin\Debug\net6.0\DeD-RPG-DIO.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\bin\Debug\net6.0\DeD-RPG-DIO.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\refint\DeD-RPG-DIO.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\DeD-RPG-DIO.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\DeD-DIO-RPG\DeD-RPG-DIO\obj\Debug\net6.0\ref\DeD-RPG-DIO.dll
